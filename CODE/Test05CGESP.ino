@@ -19,8 +19,8 @@ BluetoothSerial SerialBT;
 #define R_IN4 17
 
 // ================= LIGHTS =================
-#define HEADLIGHT 5
-#define BRAKE_LIGHT 16
+#define HEADLIGHT 16    //5
+#define BRAKE_LIGHT 5    //16
 #define LEFT_INDICATOR 1
 #define RIGHT_INDICATOR 3
 #define HORN 4
